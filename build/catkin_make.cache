@@ -1,0 +1,2 @@
+turtle:welcome_drink
+-DCATKIN_DEVEL_PREFIX=/home/song/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/song/catkin_ws/install -G Unix Makefiles
