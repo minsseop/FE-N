@@ -59,7 +59,9 @@ welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros
 welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/ros/wall_timer_options.h
 welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/rosconsole/macros_generated.h
 welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/sensor_msgs/LaserScan.h
+welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/std_msgs/Bool.h
 welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/std_msgs/Header.h
+welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/std_msgs/Int32.h
 welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/xmlrpcpp/XmlRpcDecl.h
 welcome_drink/CMakeFiles/2d_lidar_detect.dir/src/2d_lidar_detect.cpp.o: /opt/ros/melodic/include/xmlrpcpp/XmlRpcValue.h
 
